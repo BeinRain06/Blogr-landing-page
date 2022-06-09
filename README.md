@@ -35,8 +35,7 @@ Users should be able to:
 ### Links
 
 *** gihtub link ***
-- Solution URL: [Add solution URL here](https://beinrain06.github.io/Blogr-landing-page/)
-
+- Solution URL: [https://beinrain06.github.io/Blogr-landing-page/]
 
 ## My process
 
