@@ -14,6 +14,8 @@
 
 body{
   font-size: 16px;
+  font-family: 'Overpass', sans-serif;
+  font-weight: 300, 600;
   overflow-x: hidden;
 }
 
@@ -33,6 +35,11 @@ ul{
 
 .pd2{
   margin-top: 0.8rem;
+}
+
+p{
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: 400, 500, 700;
 }
 
 /* menu */
