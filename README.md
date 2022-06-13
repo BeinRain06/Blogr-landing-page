@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 *** gihtub link ***
-- Solution URL: [https://github.com/BeinRain06/Blogr-landing-page]
+- Solution URL: [https://github.com/BeinRain06/Blogr-landing-page.git]
 - Live Solution URL: [https://beinrain06.github.io/Blogr-landing-page/]
 
 ## My process
